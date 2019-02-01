@@ -1,0 +1,156 @@
+[
+{
+	"class": "SerializarCarmen.FichaBiblioteca",
+	"ejemplar": {
+		"titulo": "EL SENNOR DE LOS ANILLOS",
+		"autor": "JRR TOLKIEN",
+		"numEjemplar": 1,
+		"fechaAlquiler": "20-05-18"
+	},
+	"socio": {
+		"nombre": "MARTA",
+		"apellido": "MARTIN",
+		"dni": "55555555N"
+	}
+},
+{
+	"class": "SerializarCarmen.FichaBiblioteca",
+	"ejemplar": {
+		"titulo": "EL HOBBIT",
+		"autor": "JRR TOLKIEN",
+		"numEjemplar": 1,
+		"fechaAlquiler": "30-06-18"
+	},
+	"socio": {
+		"nombre": "LAURA",
+		"apellido": "LOPEZ",
+		"dni": "66666666T"
+	}
+},
+{
+	"class": "SerializarCarmen.FichaBiblioteca",
+	"ejemplar": {
+		"titulo": "EL SILMARILLION",
+		"autor": "JRR TOLKIEN",
+		"numEjemplar": 2,
+		"fechaAlquiler": "25-07-18"
+	},
+	"socio": {
+		"nombre": "JOSE",
+		"apellido": "GARCIA",
+		"dni": "77777777J"
+	}
+},
+{
+	"class": "SerializarCarmen.FichaBiblioteca",
+	"ejemplar": {
+		"titulo": "LA SOMBRA DEL VIENTO",
+		"autor": "CARLOS RUIZ ZAFON",
+		"numEjemplar": 3,
+		"fechaAlquiler": "01-09-18"
+	},
+	"socio": {
+		"nombre": "ANTONIO",
+		"apellido": "MARTINEZ",
+		"dni": "88888888P"
+	}
+},
+{
+	"class": "SerializarCarmen.FichaBiblioteca",
+	"ejemplar": {
+		"titulo": "LA CATEDRAL DEL MAR",
+		"autor": "ILDEFONSO FALCONES",
+		"numEjemplar": 2,
+		"fechaAlquiler": "13-01-18"
+	},
+	"socio": {
+		"nombre": "ANA",
+		"apellido": "RODRIGUEZ",
+		"dni": "44444444P"
+	}
+},
+{
+	"class": "SerializarCarmen.FichaBiblioteca",
+	"ejemplar": {
+		"titulo": "EL CODIGO DA VINCI",
+		"autor": "DAN BROWN",
+		"numEjemplar": 3,
+		"fechaAlquiler": "25-11-18"
+	},
+	"socio": {
+		"nombre": "LUIS",
+		"apellido": "PEREZ",
+		"dni": "11111111L"
+	}
+},
+{
+	"class": "SerializarCarmen.FichaBiblioteca",
+	"ejemplar": {
+		"titulo": "EL HOBBIT",
+		"autor": "JRR TOLKIEN",
+		"numEjemplar": 1,
+		"fechaAlquiler": "13-12-18"
+	},
+	"socio": {
+		"nombre": "ROCIO",
+		"apellido": "SANCHEZ",
+		"dni": "99999999K"
+	}
+},
+{
+	"class": "SerializarCarmen.FichaBiblioteca",
+	"ejemplar": {
+		"titulo": "TODO BAJO EL SOL",
+		"autor": "CARLOS RUIZ ZAFON",
+		"numEjemplar": 1,
+		"fechaAlquiler": "03-08-18"
+	},
+	"socio": {
+		"nombre": "PEDRO",
+		"apellido": "MUNNOZ",
+		"dni": "33333333B"
+	}
+},
+{
+	"class": "SerializarCarmen.FichaBiblioteca",
+	"ejemplar": {
+		"titulo": "LA SOMBRA DEL VIENTO",
+		"autor": "PATRYCK ROTHFUSS",
+		"numEjemplar": 2,
+		"fechaAlquiler": "04-04-18"
+	},
+	"socio": {
+		"nombre": "JOAQUIN",
+		"apellido": "RUIZ",
+		"dni": "22222222R"
+	}
+},
+{
+	"class": "SerializarCarmen.FichaBiblioteca",
+	"ejemplar": {
+		"titulo": "LA CONSPIRACION",
+		"autor": "DAN BROWN",
+		"numEjemplar": 1,
+		"fechaAlquiler": "28-04-18"
+	},
+	"socio": {
+		"nombre": "TERESA",
+		"apellido": "GARCIA",
+		"dni": "12345678G"
+	}
+},
+{
+	"class": "SerializarCarmen.FichaBiblioteca",
+	"ejemplar": {
+		"titulo": "EL SENNOR DE LOS ANILLOS",
+		"autor": "JRR TOLKIEN",
+		"numEjemplar": 1,
+		"fechaAlquiler": "16-11-18"
+	},
+	"socio": {
+		"nombre": "JAVIER",
+		"apellido": "ALVAREZ",
+		"dni": "45678912F"
+	}
+}
+]
